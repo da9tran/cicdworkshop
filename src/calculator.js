@@ -1,4 +1,4 @@
-export function add(num1, num2) {
-  let result = num1 + num2;
+export function add(number1, number2) {
+  let result = number1 + number2;
   return result;
 }
